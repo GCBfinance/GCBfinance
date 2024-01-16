@@ -10,7 +10,7 @@
 GCB Financial Technology is a visionary in the fintech space, committed to developing blockchain solutions that transform how financial services are delivered and experienced.
 
 ## 🎯 Our Mission
-![image](https://github.com/GCBfinance/GCBfinance/assets/156694250/018f6f33-6b05-45d8-a3da-0debc0dd9892)
+
 
 Our mission is to drive innovation in finance, harnessing the power of technology to create more accessible, efficient, and secure financial services for all.
 
@@ -36,7 +36,7 @@ Reach out and connect with us through our various channels:
 - [LinkedIn](https://www.linkedin.com/company/gulfcbio/)
 - [Twitter](https://twitter.com/gcbgulf)
 - [Email](mailto:Contact@gulfcb.io)
-
+![image](https://github.com/GCBfinance/GCBfinance/assets/156694250/018f6f33-6b05-45d8-a3da-0debc0dd9892)
 ## 📜 License
 
 This README and its content are released under the standard MIT license.
