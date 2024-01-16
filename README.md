@@ -3,6 +3,7 @@
 ![GCB Logo](<https://gulfcryptobankshares.com/assets/rightlogo.svg>)
 
 "Where finance meets innovation" – At GCB, we're dedicated to merging the fast-paced world of finance with the groundbreaking advancements in technology.
+![image](https://github.com/GCBfinance/GCBfinance/assets/156694250/69beb37c-7ac0-4513-be2d-c87a70feab20)
 
 ## 🌐 About GCB
 
