@@ -26,9 +26,6 @@ We are constantly exploring new ways to leverage blockchain technology, aiming t
 
 We value collaboration and community contribution. If you're passionate about fintech and blockchain, watch this space for future opportunities to contribute.
 
-## 🚀 Careers
-
-Looking to make a mark in the fintech world? Visit our [Careers page](<INSERT_CAREERS_PAGE_URL>).
 
 ## 📬 Get in Touch
 
