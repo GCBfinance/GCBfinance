@@ -4,7 +4,7 @@
 
 "Where finance meets innovation" – At GCB, we're dedicated to merging the fast-paced world of finance with the groundbreaking advancements in technology.
 ![image](https://github.com/GCBfinance/GCBfinance/assets/156694250/69beb37c-7ac0-4513-be2d-c87a70feab20)
-![video]((https://twitter.com/i/status/1670740437773045760))
+![video](https://x.com/GcbGulf/status/1670740437773045760?s=20)
 https://twitter.com/i/status/1670740437773045760
 ## 🌐 About GCB
 
