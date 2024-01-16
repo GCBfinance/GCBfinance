@@ -31,7 +31,7 @@ Looking to make a mark in the fintech world? Visit our [Careers page](<INSERT_CA
 ## 📬 Get in Touch
 
 Reach out and connect with us through our various channels:
-- [LinkedIn](https://www.linkedin.com/company/gulfcrypto)
+- [LinkedIn](https://www.linkedin.com/company/gulfcbio/)
 - [Twitter](https://twitter.com/gcbgulf)
 - [Email](mailto:contact@gulfcrypto.io)
 
