@@ -37,9 +37,10 @@ Reach out and connect with us through our various channels:
 - [Twitter](https://twitter.com/gcbgulf)
 - [Email](mailto:Contact@gulfcb.io)
 
-## 📜 License
+
 ![image](https://github.com/GCBfinance/GCBfinance/assets/156694250/018f6f33-6b05-45d8-a3da-0debc0dd9892)
 
+## 📜 License
 This README and its content are released under the standard MIT license.
 
 
