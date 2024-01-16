@@ -20,6 +20,8 @@ Stay tuned for our public repositories where we will showcase our projects, from
 
 ## 💡 Innovation at GCB
 
+![image](https://pbs.twimg.com/profile_banners/1577979889902305280/1700232345/1500x500)
+
 We are constantly exploring new ways to leverage blockchain technology, aiming to set new standards in the fintech industry.
 
 ## 🤝 Join the GCB Community
