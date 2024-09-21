@@ -32,9 +32,9 @@ We value collaboration and community contribution. If you're passionate about fi
 ## 📬 Get in Touch
 
 Reach out and connect with us through our various channels:
-- [LinkedIn](https://www.linkedin.com/company/gulfcbio/)
-- [Twitter](https://twitter.com/gcbgulf)
-- [Email](mailto:Contact@gulfcb.io)
+- [LinkedIn](https://www.linkedin.com/company/90806625/)
+- [Twitter](https://x.com/GcbGlobal)
+- [Email](mailto:Contact@gcbex.com)
 
 
 
